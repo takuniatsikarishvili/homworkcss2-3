@@ -1,0 +1,382 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    
+}
+
+#enqorbox{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 277px;
+    margin-right: 277px;
+    
+}
+#enqor-logo{
+    vertical-align: middle;
+
+
+}
+#navbox{
+    max-width: 1183px;
+    width: 100%;
+    background: #F7F4FF;
+    margin-left: auto;
+}
+#button-style{
+    color: #8E26C0;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+}
+#styleerti{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #8E26C0;
+}
+#styleori{
+    padding-right: 20px;
+}
+/*main*/
+#mainstyle{
+    margin-top: 154px;
+}
+#mainbox{
+    max-width: 1299px;
+    width: 100%;
+    padding: 20px;
+    margin: 0 auto;
+}
+#mainfoto{
+    max-width: 610px;
+    width: 100%;
+    display: inline-block;
+   vertical-align: middle;
+   
+
+} 
+
+#texbox{
+    max-width: 550px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 45px;
+}
+#texboxori{
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+
+}
+#paragraperti{
+    color: #535862;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+#sia{
+    margin-left: 45px;
+    color: #000000;
+}
+/*contact*/
+#contacbox{
+    max-width: 1221px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#contacti{
+    max-width: 905px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+#paragrapori{
+    color: #000;
+    text-align: center;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+#paragrapisami{
+    color: #535862;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    
+}
+#mtavaridiv{
+    max-width: 1157px;
+    width: 100%;
+    border-radius: 16px;
+    background: #F7F4FF
+}
+#shidadivi{
+    padding: 32px;
+}
+#divierti{
+   width: 363px;
+    height: 434px;
+    padding: 20px;
+    border-radius: 16px;
+    background: #FFF;
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+#logo{
+    display: inline-block;
+}
+#adresdivi{
+    display: inline-block;
+    padding-left: 28px;
+    margin-bottom: 24px;
+}
+#misamarti{
+    color: #6D5F8B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+#logoori{
+    display: inline-block
+    
+}
+#adrres{
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: ;
+}
+
+#maildivi{
+    display: inline-block;
+    padding-left: 28px;
+}
+#mailp{
+    color: #000;
+    font-family: Phetsarath;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+#maili{
+    color: #6D5F8B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+#logosami{
+    display: inline-block;
+}
+#phone{
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+#divphone{
+    display: inline-block;
+    padding-top: 24px;
+    padding-left: 28px;
+}
+#number{
+    color: #6D5F8B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+#diviori{
+   display: inline-block;
+   vertical-align: middle;
+   margin-left: 24px;
+}
+#diviorisp{
+    color: #1B003D;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    padding-bottom: 16px;
+
+}
+#textid{
+    display: block;
+    color: #1B003D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+#text{
+    color: #6D5F8B;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    width: 698px;
+    padding: 8px 16px;
+    margin-bottom: 24px;
+}
+  #textori{
+    padding: 8px 16px;
+    color: #6D5F8B;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    width: 698px;
+    margin-bottom: 24px;
+  }
+  #textarea{
+    width: 698px;
+    display: block;
+    color: #6D5F8B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 12px 16px;
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+    margin-bottom: 24px;
+  }
+  #buttonbox{
+   max-width: 698px;
+   width: 100%;
+   text-align: right;
+  }
+  #button{
+    padding: 12px 24px;
+    width: 140px;
+    height: 48px;
+    color: #FFF;
+    border-radius: 8px;
+    background: #8E26C0;
+   
+  }
+  /*footer*/
+  #footerbox{
+    background: #53389E;
+    margin-top: 163px;
+    padding-top: 64px;
+    padding-bottom: 48px;
+  }
+  #footer-conteiner{
+    max-width: 1280px;
+    width: 100%;
+   margin: 0 auto;
+   padding: 20px;
+  
+   color: #E9D7FE;
+
+    
+    
+  }
+  
+  #chamonatvali{
+    display: inline-block;
+    width: 200px;
+    
+    
+    
+  }
+#footerisp{
+   color: #E9D7FE;
+   display: block;
+
+  }
+  #enqorsia{
+    display: block;
+    color: #E9D7FE;
+    margin-top: 12px;
+    margin-bottom: 12px;
+
+  }
+  #span{
+    color: #FFFFFF;
+    display:inline-block;
+    padding: 2px;
+    border-radius: 6px;
+    border: 1px solid;
+    margin-left: 10px;
+     
+  }
+  #enqorsiaa{
+    display: inline-block;
+    color: #E9D7FE;
+
+  }
+  #footerispori{
+
+    color: #E9D7FE;
+   
+}
+
+
+#chamonatvaliori{
+    display: inline-block;
+    width: 200px;
+}
+#chamonatvalisami{
+    display: inline-block;
+    width: 200px;
+}
+#chamonatvaliotxi{
+    display: inline-block;
+    width: 200px;
+}
+#chamonatvalixuti{
+    display: inline-block;
+    width: 200px;
+}
+#chamonatvaliexvsi{
+    display: inline-block;
+    width: 200px;
+}
+#qvedadivi{
+  
+    border-top: 1px solid #7F56D9;
+    margin-top: 64px;
+
+}
+#logoerti{
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 0px 0px 8px 8px;
+    width: 32px;
+    padding-top: 32px;
+    
+
+}
+#logo-ori{
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 32px;
+    width: 97px;
+
+}
+
+
+#bolodivi{
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 1000px;
+    width: 100%;
+    
+
+}
+#bolop{
+    text-align: right;
+    padding-top: 36px;
+
+
+}
